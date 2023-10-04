@@ -1,3 +1,4 @@
 # Function list
-1. tshirt display
-2. tshirt buy
+1. 티셔츠 올리기
+2. 티셔츠 구매하기
+3. 디테일 페이지 추가
