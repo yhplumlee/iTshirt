@@ -1,3 +1,4 @@
 # Function list
-1. tshirt display
-2. tshirt buy
+1. 티셔츠 올리기
+2. 티셔츠 구매
+3. 장바구니 담기
